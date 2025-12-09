@@ -29,7 +29,7 @@ const About = () => {
               on electrical systems and control algorithms for Formula Student
               competitions.
             </p>
-            <div className="about-highlights">
+            {/* <div className="about-highlights">
               <div className="highlight-item">
                 <span className="highlight-number">6+</span>
                 <span className="highlight-label">Research Projects</span>
@@ -42,7 +42,7 @@ const About = () => {
                 <span className="highlight-number">DTU</span>
                 <span className="highlight-label">Exchange Semester</span>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>
