@@ -53,7 +53,8 @@ const Research = () => {
             ))}
           </div>
         </div>
-        /*
+
+        {/* 
         <div className="publications">
           <h3 className="subsection-title">Publications & Presentations</h3>
           <div className="publications-list">
@@ -85,7 +86,8 @@ const Research = () => {
             ))}
           </div>
         </div>
-        */
+        */}
+
       </div>
     </section>
   );
