@@ -8,12 +8,11 @@ const Education = () => {
       location: "Mumbai, India",
       period: "2022 - Present",
       description:
-        "Pursuing a Minor degree in Computer Science & Engineering with Honors in Mechanical Engineering",
+        "Pursuing Honors in Mechanical Engineering in the field of Trajectory tracking for multi-actuated robots",
       achievements: [
         "Selected for semester exchange to Technical University of Denmark (DTU) for Spring '24-'25",
-        "Secured 99.20 percentile in JEE Advanced (top 0.16 million candidates)",
-        "Earned AP Scholar with perfect scores (5/5) in 3 AP exams",
-        "Selected for Indian National Math Olympiad (INMO) from Mumbai Region",
+        "Part of Krittika (Astronomy Club), ELIT mentorship program, and E-Cell IIT Bombay",
+        "Worked on electrical systems and control algorithms for IITB Racing",
       ],
     },
     {
@@ -24,7 +23,7 @@ const Education = () => {
       description:
         "Semester exchange program focusing on advanced engineering and robotics",
       achievements: [
-        "Completed coursework in CFD, UAV Design, and Advanced Control Systems",
+        "Completed coursework in CFD, UAV Design, Autonomous Marine Robotics, and Image Analysis",
         "Conducted research on maritime vessel classification using deep learning",
         "Collaborated with international research teams on autonomous systems",
       ],
@@ -37,8 +36,8 @@ const Education = () => {
       description: "Intermediate education with focus on Science stream",
       achievements: [
         "Secured 96.17% in HSC examinations",
+        "Secured 99.20 percentile in JEE Advanced (top 0.16 million candidates)",
         "Earned AP Scholar with perfect scores (5/5) in 3 AP exams",
-        "Strong foundation in Physics, Chemistry, and Mathematics",
       ],
     },
     {
