@@ -139,4 +139,4 @@ The built files will be in the `dist/` directory, ready for deployment.
 
 ## License
 
-This project is open source and available for personal and academic use.
+This project is open source and available for personal and academic use. Special thanks to Gaurav Kannaujiya for helping me build this site.
