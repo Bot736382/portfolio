@@ -19,22 +19,22 @@ const Research = () => {
     },
   ];
 
-  const publications = [
-    {
-      title: "Autonomous Robots & Multi-robot Systems Lab",
-      authors: "Manan Mehta, Advisor: Prof. Arpita Sinha",
-      venue: "IIT Bombay, Jun 2025 - Ongoing",
-      status: "Ongoing",
-      link: "#",
-    },
-    {
-      title: "Maritime Vessel Classification using YOLOv9",
-      authors: "Manan Mehta, Advisor: Assoc. Prof. Roberto Galeazzi",
-      venue: "Technical University of Denmark, Mar-Jun 2025",
-      status: "Completed",
-      link: "#",
-    },
-  ];
+  // const publications = [
+  //   {
+  //     title: "Autonomous Robots & Multi-robot Systems Lab",
+  //     authors: "Manan Mehta, Advisor: Prof. Arpita Sinha",
+  //     venue: "IIT Bombay, Jun 2025 - Ongoing",
+  //     status: "Ongoing",
+  //     link: "#",
+  //   },
+  //   {
+  //     title: "Maritime Vessel Classification using YOLOv9",
+  //     authors: "Manan Mehta, Advisor: Assoc. Prof. Roberto Galeazzi",
+  //     venue: "Technical University of Denmark, Mar-Jun 2025",
+  //     status: "Completed",
+  //     link: "#",
+  //   },
+  // ];
 
   return (
     <section id="research" className="research">
