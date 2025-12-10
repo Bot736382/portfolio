@@ -37,7 +37,7 @@ const Projects = () => {
       category: "Research Project",
       description:
         "Manufactured PDMS master device using micro-milling to create millipede-style microdroplet generator. Achieved 12,000+ 1 microlitre droplets from immiscible fluids (water and HFE7500).",
-      technologies: ["CAD", "FDM 3D Printing", "Micro-milling"],
+      technologies: ["CAD", "FDM 3D Printing", "Micro-milling", "SLA"],
       links: {
         github: "#",
       },
