@@ -9,7 +9,8 @@ const Projects = () => {
         "Implemented Extended Kalman Filter (EKF) to estimate 2D pose of a robot. Used trilateration from three landmarks in Gazebo simulation and implemented closed-loop feedback control for trajectory tracking.",
       technologies: ["Python", "ROS", "Gazebo", "EKF"],
       links: {
-        github: "#",
+        github: "https://github.com/Bot736382/SC649_Turtlebot",
+        site: null,
       },
     },
     {
@@ -20,6 +21,7 @@ const Projects = () => {
       technologies: ["MATLAB", "Python", "NumPy", "FVM"],
       links: {
         github: "#",
+        site: null,
       },
     },
     {
@@ -30,6 +32,7 @@ const Projects = () => {
       technologies: ["MATLAB", "CAD", "Aerodynamics"],
       links: {
         github: "#",
+        site: null,
       },
     },
     {
@@ -39,7 +42,8 @@ const Projects = () => {
         "Manufactured PDMS master device using micro-milling to create millipede-style microdroplet generator. Achieved 12,000+ 1 microlitre droplets from immiscible fluids (water and HFE7500).",
       technologies: ["CAD", "FDM 3D Printing", "Micro-milling", "SLA"],
       links: {
-        github: "#",
+        github: "https://github.com/Bot736382/Microdroplet_Generator/tree/main",
+        site: null,
       },
     },
     {
@@ -50,6 +54,7 @@ const Projects = () => {
       technologies: ["Python", "TensorFlow", "NumPy", "Pandas"],
       links: {
         github: "#",
+        site: null,
       },
     },
     {
@@ -59,7 +64,8 @@ const Projects = () => {
         "Part of 36-member team that secured Overall Winners in Electric Category. Formulated torque control algorithms including torque vectoring and traction control. Designed BMS PCB system with SPI communication.",
       technologies: ["C++", "Autodesk EAGLE", "Arduino", "CAN"],
       links: {
-        github: "#",
+        github: null,
+        site: "https://www.iitbracing.org/",
       },
     },
   ];
@@ -120,6 +126,16 @@ const Projects = () => {
                     className="project-link"
                   >
                     Report
+                  </a>
+                )}
+                {project.links.site && project.links.site !== "#" && (
+                  <a
+                    href={project.links.site}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="project-link"
+                  >
+                    Site
                   </a>
                 )}
               </div>

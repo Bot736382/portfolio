@@ -22,18 +22,18 @@ const Research = () => {
   const publications = [
     {
       title: "Autonomous Robots & Multi-robot Systems Lab",
-      authors: "Manan Mehta, Advisor: Prof. Arpita Sinha",
+      authors: "Manan Mehta, Advisors: Prof. Arpita Sinha, Prof. Anirban Guha",
       venue: "IIT Bombay, Jun 2025 - Ongoing",
       status: "Ongoing",
-      link: "#",
-    },
+      link: "https://github.com/Bot736382/Honors",
+    },/*
     {
       title: "Maritime Vessel Classification using YOLOv9",
       authors: "Manan Mehta, Advisor: Assoc. Prof. Roberto Galeazzi",
       venue: "Technical University of Denmark, Mar-Jun 2025",
       status: "Completed",
       link: "#",
-    },
+    },*/
   ];
 
   return (
@@ -54,7 +54,7 @@ const Research = () => {
           </div>
         </div>
 
-        {/* 
+        {
         <div className="publications">
           <h3 className="subsection-title">Publications & Presentations</h3>
           <div className="publications-list">
@@ -79,14 +79,14 @@ const Research = () => {
                     target="_blank"
                     rel="noopener noreferrer"
                   >
-                    View Paper →
+                    View Repository →
                   </a>
                 )}
               </div>
             ))}
           </div>
         </div>
-        */}
+        }
 
       </div>
     </section>

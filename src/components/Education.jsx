@@ -3,10 +3,10 @@ import React from "react";
 const Education = () => {
   const education = [
     {
-      degree: "B.Tech in Mechanical Engineering (Minor in CSE with Honors)",
+      degree: "B.Tech in Mechanical Engineering, with Honors",
       institution: "Indian Institute of Technology Bombay",
       location: "Mumbai, India",
-      period: "2022 - Present",
+      period: "Nov 2022 - Present",
       description:
         "Pursuing Honors in Mechanical Engineering in the field of Trajectory tracking for multi-actuated robots",
       achievements: [
@@ -19,7 +19,7 @@ const Education = () => {
       degree: "Exchange Semester",
       institution: "Technical University of Denmark (DTU)",
       location: "Copenhagen, Denmark",
-      period: "Spring 2024-2025",
+      period: "Jan 2025 - Jun 2025",
       description:
         "Semester exchange program focusing on advanced engineering and robotics",
       achievements: [
@@ -32,7 +32,7 @@ const Education = () => {
       degree: "Higher Secondary Certificate (HSC) - 12th Grade",
       institution: "Alpha Junior College of Science and Commerce",
       location: "Mumbai, India",
-      period: "2022",
+      period: "2020 - 2022",
       description: "Intermediate education with focus on Science stream",
       achievements: [
         "Secured 96.17% in HSC examinations",
@@ -44,7 +44,7 @@ const Education = () => {
       degree: "Secondary School Certificate (SSC) - 10th Grade",
       institution: "The Somaiya School (CBSE)",
       location: "Mumbai, India",
-      period: "2020",
+      period: "2014 - 2020",
       description: "Matriculation with comprehensive academic foundation",
       achievements: [
         "Secured 96.40% in CBSE examinations",
