@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import Hero from "../components/Hero";
 import About from "../components/About";
 
@@ -12,7 +13,7 @@ const HomePage = () => {
           <div className="footer-section">
             <h3>Manan Mehta</h3>
             <p>
-              B.Tech in Mechanical Engineering (Minor in CSE) at IIT Bombay.
+              B.Tech with Honors in Mechanical Engineering at IIT Bombay.
               Passionate about autonomous robotics, computer vision, and
               developing intelligent systems for real-world applications.
             </p>
@@ -21,10 +22,10 @@ const HomePage = () => {
           <div className="footer-section">
             <h3>Quick Links</h3>
             <div className="footer-links">
-              <a href="/">Home</a>
-              <a href="/education">Education</a>
-              <a href="/research">Research</a>
-              <a href="/projects">Projects</a>
+              <Link to="/">Home</Link>
+              <Link to="/education">Education</Link>
+              <Link to="/research">Research</Link>
+              <Link to="/projects">Projects</Link>
             </div>
           </div>
 

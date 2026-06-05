@@ -8,9 +8,7 @@ const About = () => {
         <div className="about-content">
           <div className="about-text">
             <p className="lead-text">
-              I am an undergraduate student at IIT Bombay, pursuing a B.Tech in
-              Mechanical Engineering with a Minor in Computer Science &
-              Engineering with Honors. My academic journey has been driven by a
+              I am an undergraduate student at IIT Bombay, graduating with a Honors in the Department of Mechanical Engineering. My academic journey has been driven by a
               passion for robotics, autonomous systems, and computational
               methods.
             </p>
