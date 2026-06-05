@@ -32,16 +32,16 @@ const HomePage = () => {
           <div className="footer-section">
             <h3>Connect</h3>
             <div className="footer-social">
-              <a href="#" className="footer-social-icon" aria-label="LinkedIn">
+              <a href="https://www.linkedin.com/in/manan-k-mehta/" className="footer-social-icon" aria-label="LinkedIn">
                 in
               </a>
-              <a href="#" className="footer-social-icon" aria-label="GitHub">
+              <a href="https://github.com/Bot736382" className="footer-social-icon" aria-label="GitHub">
                 {"<>"}
               </a>
-              <a href="#" className="footer-social-icon" aria-label="Scholar">
+              {/* <a href="#" className="footer-social-icon" aria-label="Scholar">
                 📚
-              </a>
-              <a href="#" className="footer-social-icon" aria-label="Email">
+              </a> */}
+              <a href="mailto:mananmehta2107@gmail.com" className="footer-social-icon" aria-label="Email">
                 ✉
               </a>
             </div>
