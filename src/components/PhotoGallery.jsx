@@ -111,11 +111,8 @@ const PhotoGallery = () => {
       <div style={styles.container}>
         <div style={styles.header}>
           <span style={styles.kicker}>Photo Gallery</span>
-          <h2 className="section-title">Coming Soon</h2>
-          <p style={styles.intro}>
-            I’m curating a photo gallery that will eventually showcase selected
-            moments in a clean, collage-style layout.
-          </p>
+          <h1 className="section-title">Coming Soon</h1>
+          
         </div>
 
         <div style={styles.card}>
@@ -155,11 +152,7 @@ const PhotoGallery = () => {
 
           <div style={styles.content}>
             <span style={styles.badge}>Under Construction</span>
-            <h3 style={styles.title}>Beautiful collage layout in progress</h3>
-            <p style={styles.text}>
-              This page will soon feature a responsive mosaic of photos,
-              captions, and lightbox viewing.
-            </p>
+            <h3 style={styles.title}>Collage layout in progress</h3>
 
             <div style={styles.stats} aria-label="Gallery status">
               <div style={styles.statBox}>
