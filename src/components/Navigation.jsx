@@ -37,6 +37,7 @@ const Navigation = () => {
     { path: "/education", label: "Education" },
     { path: "/research", label: "Research" },
     { path: "/projects", label: "Projects" },
+    { path: "/gallery", label: "Gallery" },
     // { path: "/contact", label: "Contact" },
   ];
 

@@ -26,6 +26,7 @@ const HomePage = () => {
               <Link to="/education">Education</Link>
               <Link to="/research">Research</Link>
               <Link to="/projects">Projects</Link>
+              <Link to="/gallery">Gallery</Link>
             </div>
           </div>
 
