@@ -15,21 +15,21 @@ const About = () => {
               passion for robotics, autonomous systems, and computational methods.
             </p>
             <p>
-              At IITB, I was researcher at the Autonomous Robots & Multi-robot Systems Lab under the guidance of Professor{" "}
+              At IITB, I was researcher at the Autonomous Robots & Multi-robot Systems Lab under the guidance of {" "}
               <a
                 href="https://www.sc.iitb.ac.in/~asinha/Pages/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Arpita Sinha
+                Professor Arpita Sinha
               </a>{" "}
-              and Late Professor{" "}
+              and {" "}
               <a
                 href="https://sites.google.com/site/anirbanguha1/home"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Anirban Guha
+                Late Professor Anirban Guha
               </a>
               , working on real-time algorithms for
               autonomous mobile manipulators and decentralised reinforcement
