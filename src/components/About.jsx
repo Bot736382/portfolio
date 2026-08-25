@@ -10,7 +10,7 @@ const About = () => {
             <p>
               I am currently a graduate master's student at Carnegie Mellon University, Pittsburgh, PA. I am pursuing the research track in the department of Mechanical Engineering (MSME-R)
             </p>
-            <p className="lead-text">
+            <p className="about-text">
               I completed my undergraduate studies from IIT Bombay, graduating with a Honors in the Department of Mechanical Engineering. My academic journey has been driven by a
               passion for robotics, autonomous systems, and computational methods.
             </p>
@@ -30,8 +30,7 @@ const About = () => {
                 rel="noopener noreferrer"
               >
                 Late Professor Anirban Guha
-              </a>
-              , working on real-time algorithms for
+              </a>, working on real-time algorithms for
               autonomous mobile manipulators and decentralised reinforcement
               learning for path planning. I have also conducted research at the
               Technical University of Denmark on object detection for maritime

@@ -3,6 +3,17 @@ import React from "react";
 const Education = () => {
   const education = [
     {
+      degree: "Masters in Mechanical Engineering (MSME-R)",
+      institution: "Carnegie Mellon University",
+      location: "Pittsburgh, USA",
+      period: "August 2026 - Present",
+      // description:
+      //   "",
+      // achievements: [
+      //   "",
+      // ],
+    },
+    {
       degree: "B.Tech in Mechanical Engineering, with Honors",
       institution: "Indian Institute of Technology Bombay",
       location: "Mumbai, India",
