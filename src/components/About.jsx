@@ -7,26 +7,43 @@ const About = () => {
         <h2 className="section-title">About Me</h2>
         <div className="about-content">
           <div className="about-text">
+            <p>
+              I am currently a graduate master's student at Carnegie Mellon University, Pittsburgh, PA. I am pursuing the research track in the department of Mechanical Engineering (MSME-R)
+            </p>
             <p className="lead-text">
-              I am an undergraduate student at IIT Bombay, graduating with a Honors in the Department of Mechanical Engineering. My academic journey has been driven by a
-              passion for robotics, autonomous systems, and computational
-              methods.
+              I completed my undergraduate studies from IIT Bombay, graduating with a Honors in the Department of Mechanical Engineering. My academic journey has been driven by a
+              passion for robotics, autonomous systems, and computational methods.
             </p>
             <p>
-              Currently, I am a researcher at the Autonomous Robots &
-              Multi-robot Systems Lab, working on real-time algorithms for
+              At IITB, I was researcher at the Autonomous Robots & Multi-robot Systems Lab under the guidance of Professor{" "}
+              <a
+                href="https://www.sc.iitb.ac.in/~asinha/Pages/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Arpita Sinha
+              </a>{" "}
+              and Late Professor{" "}
+              <a
+                href="https://sites.google.com/site/anirbanguha1/home"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Anirban Guha
+              </a>
+              , working on real-time algorithms for
               autonomous mobile manipulators and decentralised reinforcement
               learning for path planning. I have also conducted research at the
               Technical University of Denmark on object detection for maritime
               vessel classification using YOLOv9.
             </p>
-            <p>
+            {/* <p>
               Beyond academics, I am actively involved in student organizations
               including Krittika (Astronomy Club), ELIT mentorship program, and
               E-Cell IIT Bombay. I was also part of IITB Racing, where I worked
               on electrical systems and control algorithms for Formula Student
               competitions.
-            </p>
+            </p> */}
             {/* <div className="about-highlights">
               <div className="highlight-item">
                 <span className="highlight-number">6+</span>
