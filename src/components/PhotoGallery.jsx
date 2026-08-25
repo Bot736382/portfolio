@@ -154,6 +154,7 @@ const PhotoGallery = () => {
             <span style={styles.badge}>Under Construction</span>
             <h3 style={styles.title}>Collage layout in progress</h3>
 
+            {/*
             <div style={styles.stats} aria-label="Gallery status">
               <div style={styles.statBox}>
                 <strong style={styles.statLabel}>Layout</strong>
@@ -168,6 +169,7 @@ const PhotoGallery = () => {
                 <span style={styles.statValue}>Coming soon</span>
               </div>
             </div>
+            */}
           </div>
         </div>
       </div>
