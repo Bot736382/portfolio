@@ -7,17 +7,15 @@ const Education = () => {
       institution: "Carnegie Mellon University",
       location: "Pittsburgh, USA",
       period: "August 2026 - Present",
-      // description:
-      //   "",
-      // achievements: [
-      //   "",
-      // ],
+      description:
+        "Pursuing the research track in Mechanical Engineering with a focus on robotics and autonomous systems",
+      achievements: [],
     },
     {
       degree: "B.Tech in Mechanical Engineering, with Honors",
       institution: "Indian Institute of Technology Bombay",
       location: "Mumbai, India",
-      period: "Nov 2022 - Present",
+      period: "Nov 2022 - Jun 2026",
       description:
         "Pursuing Honors in Mechanical Engineering in the field of Trajectory tracking for multi-actuated robots",
       achievements: [

@@ -30,7 +30,7 @@ const About = () => {
                 rel="noopener noreferrer"
               >
                 Late Professor Anirban Guha
-              </a>, working on real-time algorithms for
+              </a>, worked on real-time algorithms for
               autonomous mobile manipulators and decentralised reinforcement
               learning for path planning. I have also conducted research at the
               Technical University of Denmark on object detection for maritime
